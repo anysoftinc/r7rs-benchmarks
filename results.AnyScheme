@@ -1,0 +1,1983 @@
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:32:28 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running string
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:239: Cannot apply non-function: 1
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:35:31 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running string
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:239: Cannot apply non-function: 1
+
+real	0m0.019s
+user	0m0.014s
+sys	0m0.003s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:36:08 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running string
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:239: Cannot apply non-function: 1
+
+real	0m0.020s
+user	0m0.015s
+sys	0m0.003s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:40:28 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running string
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:239: Cannot apply non-function: 1
+
+real	0m0.020s
+user	0m0.012s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:42:39 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: read
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:48:20 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: read
+
+real	0m0.019s
+user	0m0.010s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:48:59 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:239: Cannot apply non-function: 1
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.005s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:56:28 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: import
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:56:47 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: flush-output-port
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:58:16 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: jiffies-per-second
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 12:59:40 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: call-with-values
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:03:52 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:1562: attempt to call a table value (local 'producer')
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:11:02 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:236: Cannot apply non-function: table: 0x600001f123c0
+
+real	0m0.015s
+user	0m0.006s
+sys	0m0.004s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:11:18 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:239: Cannot apply non-function: 1
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:16:46 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: jiffies-per-second
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.003s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:17:02 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:35: Unbound variable: jiffies-per-second
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:17:31 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:32:40 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+./bench: line 357: 43840 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.457s
+user	4m59.212s
+sys	0m0.883s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:43:24 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+Progress: 10000 evaluations in 0.017 seconds (582276 eval/sec)
+Progress: 20000 evaluations in 0.029 seconds (690870 eval/sec)
+Progress: 30000 evaluations in 0.039 seconds (768206 eval/sec)
+Progress: 40000 evaluations in 0.048 seconds (826976 eval/sec)
+Progress: 50000 evaluations in 0.057 seconds (876839 eval/sec)
+Progress: 60000 evaluations in 0.065 seconds (918724 eval/sec)
+Progress: 70000 evaluations in 0.073 seconds (956820 eval/sec)
+Progress: 80000 evaluations in 0.081 seconds (989817 eval/sec)
+Progress: 90000 evaluations in 0.088 seconds (1019229 eval/sec)
+Progress: 100000 evaluations in 0.096 seconds (1043068 eval/sec)
+Progress: 110000 evaluations in 0.103 seconds (1063542 eval/sec)
+Progress: 120000 evaluations in 0.111 seconds (1081334 eval/sec)
+Progress: 130000 evaluations in 0.119 seconds (1096288 eval/sec)
+Progress: 140000 evaluations in 0.126 seconds (1111014 eval/sec)
+Progress: 150000 evaluations in 0.133 seconds (1124101 eval/sec)
+Progress: 160000 evaluations in 0.141 seconds (1135380 eval/sec)
+Progress: 170000 evaluations in 0.148 seconds (1144966 eval/sec)
+Progress: 180000 evaluations in 0.156 seconds (1154542 eval/sec)
+Progress: 190000 evaluations in 0.163 seconds (1163396 eval/sec)
+Progress: 200000 evaluations in 0.171 seconds (1171344 eval/sec)
+Progress: 210000 evaluations in 0.178 seconds (1177671 eval/sec)
+Progress: 220000 evaluations in 0.186 seconds (1183973 eval/sec)
+Progress: 230000 evaluations in 0.193 seconds (1190180 eval/sec)
+Progress: 240000 evaluations in 0.201 seconds (1194262 eval/sec)
+Progress: 250000 evaluations in 0.208 seconds (1199835 eval/sec)
+Progress: 260000 evaluations in 0.216 seconds (1204261 eval/sec)
+Progress: 270000 evaluations in 0.223 seconds (1209011 eval/sec)
+Progress: 280000 evaluations in 0.231 seconds (1212825 eval/sec)
+Progress: 290000 evaluations in 0.238 seconds (1217122 eval/sec)
+Progress: 300000 evaluations in 0.246 seconds (1220723 eval/sec)
+Progress: 310000 evaluations in 0.253 seconds (1223874 eval/sec)
+Progress: 320000 evaluations in 0.261 seconds (1227239 eval/sec)
+Progress: 330000 evaluations in 0.268 seconds (1230246 eval/sec)
+Progress: 340000 evaluations in 0.276 seconds (1233296 eval/sec)
+Progress: 350000 evaluations in 0.283 seconds (1234707 eval/sec)
+Progress: 360000 evaluations in 0.291 seconds (1237147 eval/sec)
+Progress: 370000 evaluations in 0.299 seconds (1239394 eval/sec)
+Progress: 380000 evaluations in 0.306 seconds (1242049 eval/sec)
+Progress: 390000 evaluations in 0.313 seconds (1244237 eval/sec)
+Progress: 400000 evaluations in 0.321 seconds (1246549 eval/sec)
+Progress: 410000 evaluations in 0.328 seconds (1248192 eval/sec)
+Progress: 420000 evaluations in 0.336 seconds (1250502 eval/sec)
+Progress: 430000 evaluations in 0.343 seconds (1252680 eval/sec)
+Progress: 440000 evaluations in 0.351 seconds (1254587 eval/sec)
+Progress: 450000 evaluations in 0.358 seconds (1256562 eval/sec)
+Progress: 460000 evaluations in 0.366 seconds (1258092 eval/sec)
+Progress: 470000 evaluations in 0.373 seconds (1259186 eval/sec)
+Progress: 480000 evaluations in 0.381 seconds (1260756 eval/sec)
+Progress: 490000 evaluations in 0.388 seconds (1262538 eval/sec)
+Progress: 500000 evaluations in 0.396 seconds (1264111 eval/sec)
+Progress: 510000 evaluations in 0.403 seconds (1265367 eval/sec)
+Progress: 520000 evaluations in 0.410 seconds (1266874 eval/sec)
+Progress: 530000 evaluations in 0.418 seconds (1268116 eval/sec)
+Progress: 540000 evaluations in 0.425 seconds (1269546 eval/sec)
+Progress: 550000 evaluations in 0.433 seconds (1270915 eval/sec)
+Progress: 560000 evaluations in 0.440 seconds (1271953 eval/sec)
+Progress: 570000 evaluations in 0.448 seconds (1272958 eval/sec)
+Progress: 580000 evaluations in 0.455 seconds (1273771 eval/sec)
+Progress: 590000 evaluations in 0.463 seconds (1274887 eval/sec)
+Progress: 600000 evaluations in 0.470 seconds (1276150 eval/sec)
+Progress: 610000 evaluations in 0.478 seconds (1276842 eval/sec)
+Progress: 620000 evaluations in 0.485 seconds (1277779 eval/sec)
+Progress: 630000 evaluations in 0.493 seconds (1278785 eval/sec)
+Progress: 640000 evaluations in 0.500 seconds (1279647 eval/sec)
+Progress: 650000 evaluations in 0.508 seconds (1280599 eval/sec)
+Progress: 660000 evaluations in 0.515 seconds (1281148 eval/sec)
+Progress: 670000 evaluations in 0.523 seconds (1281884 eval/sec)
+Progress: 680000 evaluations in 0.530 seconds (1282755 eval/sec)
+Progress: 690000 evaluations in 0.538 seconds (1283532 eval/sec)
+Progress: 700000 evaluations in 0.545 seconds (1283956 eval/sec)
+Progress: 710000 evaluations in 0.553 seconds (1284589 eval/sec)
+Progress: 720000 evaluations in 0.560 seconds (1285404 eval/sec)
+Progress: 730000 evaluations in 0.568 seconds (1286008 eval/sec)
+Progress: 740000 evaluations in 0.575 seconds (1286874 eval/sec)
+Progress: 750000 evaluations in 0.583 seconds (1287509 eval/sec)
+Progress: 760000 evaluations in 0.590 seconds (1287983 eval/sec)
+Progress: 770000 evaluations in 0.598 seconds (1288470 eval/sec)
+Progress: 780000 evaluations in 0.605 seconds (1289275 eval/sec)
+Progress: 790000 evaluations in 0.612 seconds (1289809 eval/sec)
+Progress: 800000 evaluations in 0.620 seconds (1290504 eval/sec)
+Progress: 810000 evaluations in 0.628 seconds (1290555 eval/sec)
+Progress: 820000 evaluations in 0.635 seconds (1291304 eval/sec)
+Progress: 830000 evaluations in 0.642 seconds (1291974 eval/sec)
+Progress: 840000 evaluations in 0.650 seconds (1292513 eval/sec)
+Progress: 850000 evaluations in 0.657 seconds (1293153 eval/sec)
+Progress: 860000 evaluations in 0.665 seconds (1293511 eval/sec)
+Progress: 870000 evaluations in 0.672 seconds (1294000 eval/sec)
+Progress: 880000 evaluations in 0.680 seconds (1294415 eval/sec)
+Progress: 890000 evaluations in 0.687 seconds (1294996 eval/sec)
+Progress: 900000 evaluations in 0.695 seconds (1295566 eval/sec)
+Progress: 910000 evaluations in 0.702 seconds (1295872 eval/sec)
+Progress: 920000 evaluations in 0.710 seconds (1296319 eval/sec)
+Progress: 930000 evaluations in 0.717 seconds (1296621 eval/sec)
+Progress: 940000 evaluations in 0.725 seconds (1297221 eval/sec)
+Progress: 950000 evaluations in 0.732 seconds (1297802 eval/sec)
+Progress: 960000 evaluations in 0.740 seconds (1298167 eval/sec)
+Progress: 970000 evaluations in 0.747 seconds (1298491 eval/sec)
+Progress: 980000 evaluations in 0.754 seconds (1299046 eval/sec)
+Progress: 990000 evaluations in 0.762 seconds (1299448 eval/sec)
+Progress: 1000000 evaluations in 0.769 seconds (1299951 eval/sec)
+Progress: 1010000 evaluations in 0.777 seconds (1300236 eval/sec)
+Progress: 1020000 evaluations in 0.784 seconds (1300442 eval/sec)
+Progress: 1030000 evaluations in 0.792 seconds (1300472 eval/sec)
+Progress: 1040000 evaluations in 0.800 seconds (1300504 eval/sec)
+Progress: 1050000 evaluations in 0.807 seconds (1300930 eval/sec)
+Progress: 1060000 evaluations in 0.815 seconds (1301246 eval/sec)
+Progress: 1070000 evaluations in 0.822 seconds (1301667 eval/sec)
+Progress: 1080000 evaluations in 0.830 seconds (1301898 eval/sec)
+Progress: 1090000 evaluations in 0.837 seconds (1302328 eval/sec)
+Progress: 1100000 evaluations in 0.844 seconds (1302756 eval/sec)
+Progress: 1110000 evaluations in 0.852 seconds (1302815 eval/sec)
+Progress: 1120000 evaluations in 0.859 seconds (1303179 eval/sec)
+Progress: 1130000 evaluations in 0.867 seconds (1303447 eval/sec)
+Progress: 1140000 evaluations in 0.874 seconds (1303732 eval/sec)
+Progress: 1150000 evaluations in 0.882 seconds (1303969 eval/sec)
+Progress: 1160000 evaluations in 0.890 seconds (1303894 eval/sec)
+Progress: 1170000 evaluations in 0.897 seconds (1304156 eval/sec)
+Progress: 1180000 evaluations in 0.904 seconds (1304601 eval/sec)
+Progress: 1190000 evaluations in 0.912 seconds (1304749 eval/sec)
+Progress: 1200000 evaluations in 0.919 seconds (1305125 eval/sec)
+Progress: 1210000 evaluations in 0.927 seconds (1305261 eval/sec)
+Progress: 1220000 evaluations in 0.934 seconds (1305525 eval/sec)
+Progress: 1230000 evaluations in 0.942 seconds (1305818 eval/sec)
+Progress: 1240000 evaluations in 0.949 seconds (1306032 eval/sec)
+Progress: 1250000 evaluations in 0.957 seconds (1306355 eval/sec)
+Progress: 1260000 evaluations in 0.964 seconds (1306497 eval/sec)
+Progress: 1270000 evaluations in 0.972 seconds (1306556 eval/sec)
+Progress: 1280000 evaluations in 0.979 seconds (1306953 eval/sec)
+Progress: 1290000 evaluations in 0.987 seconds (1307276 eval/sec)
+Progress: 1300000 evaluations in 0.994 seconds (1307579 eval/sec)
+Progress: 1310000 evaluations in 1.002 seconds (1307715 eval/sec)
+Progress: 1320000 evaluations in 1.009 seconds (1307978 eval/sec)
+Progress: 1330000 evaluations in 1.017 seconds (1308219 eval/sec)
+Progress: 1340000 evaluations in 1.024 seconds (1308494 eval/sec)
+Progress: 1350000 evaluations in 1.031 seconds (1308794 eval/sec)
+Progress: 1360000 evaluations in 1.039 seconds (1308874 eval/sec)
+Progress: 1370000 evaluations in 1.047 seconds (1309029 eval/sec)
+Progress: 1380000 evaluations in 1.054 seconds (1309334 eval/sec)
+Progress: 1390000 evaluations in 1.062 seconds (1309385 eval/sec)
+Progress: 1400000 evaluations in 1.069 seconds (1309669 eval/sec)
+Progress: 1410000 evaluations in 1.077 seconds (1309795 eval/sec)
+Progress: 1420000 evaluations in 1.084 seconds (1310057 eval/sec)
+Progress: 1430000 evaluations in 1.091 seconds (1310336 eval/sec)
+Progress: 1440000 evaluations in 1.099 seconds (1310562 eval/sec)
+Progress: 1450000 evaluations in 1.106 seconds (1310866 eval/sec)
+Progress: 1460000 evaluations in 1.114 seconds (1310856 eval/sec)
+Progress: 1470000 evaluations in 1.121 seconds (1311063 eval/sec)
+Progress: 1480000 evaluations in 1.129 seconds (1311279 eval/sec)
+Progress: 1490000 evaluations in 1.136 seconds (1311475 eval/sec)
+Progress: 1500000 evaluations in 1.144 seconds (1311510 eval/sec)
+Progress: 1510000 evaluations in 1.151 seconds (1311587 eval/sec)
+Progress: 1520000 evaluations in 1.159 seconds (1311809 eval/sec)
+Progress: 1530000 evaluations in 1.166 seconds (1312011 eval/sec)
+Progress: 1540000 evaluations in 1.174 seconds (1312245 eval/sec)
+Progress: 1550000 evaluations in 1.181 seconds (1312363 eval/sec)
+Progress: 1560000 evaluations in 1.189 seconds (1312457 eval/sec)
+Progress: 1570000 evaluations in 1.196 seconds (1312569 eval/sec)
+Progress: 1580000 evaluations in 1.204 seconds (1312798 eval/sec)
+Progress: 1590000 evaluations in 1.211 seconds (1313025 eval/sec)
+Progress: 1600000 evaluations in 1.218 seconds (1313209 eval/sec)
+Progress: 1610000 evaluations in 1.226 seconds (1313295 eval/sec)
+Progress: 1620000 evaluations in 1.234 seconds (1313303 eval/sec)
+Progress: 1630000 evaluations in 1.241 seconds (1313514 eval/sec)
+Progress: 1640000 evaluations in 1.248 seconds (1313740 eval/sec)
+Progress: 1650000 evaluations in 1.256 seconds (1313974 eval/sec)
+Progress: 1660000 evaluations in 1.263 seconds (1314009 eval/sec)
+Progress: 1670000 evaluations in 1.271 seconds (1314252 eval/sec)
+Progress: 1680000 evaluations in 1.278 seconds (1314398 eval/sec)
+Progress: 1690000 evaluations in 1.286 seconds (1314503 eval/sec)
+Progress: 1700000 evaluations in 1.293 seconds (1314664 eval/sec)
+Progress: 1710000 evaluations in 1.301 seconds (1314761 eval/sec)
+Progress: 1720000 evaluations in 1.308 seconds (1314904 eval/sec)
+Progress: 1730000 evaluations in 1.316 seconds (1314870 eval/sec)
+Progress: 1740000 evaluations in 1.323 seconds (1315087 eval/sec)
+Progress: 1750000 evaluations in 1.331 seconds (1315267 eval/sec)
+Progress: 1760000 evaluations in 1.338 seconds (1315289 eval/sec)
+Progress: 1770000 evaluations in 1.346 seconds (1315458 eval/sec)
+Progress: 1780000 evaluations in 1.353 seconds (1315640 eval/sec)
+Progress: 1790000 evaluations in 1.360 seconds (1315819 eval/sec)
+Progress: 1800000 evaluations in 1.368 seconds (1315997 eval/sec)
+Progress: 1810000 evaluations in 1.375 seconds (1316011 eval/sec)
+Progress: 1820000 evaluations in 1.383 seconds (1316142 eval/sec)
+Progress: 1830000 evaluations in 1.390 seconds (1316305 eval/sec)
+Progress: 1840000 evaluations in 1.398 seconds (1316483 eval/sec)
+Progress: 1850000 evaluations in 1.405 seconds (1316467 eval/sec)
+Progress: 1860000 evaluations in 1.413 seconds (1316582 eval/sec)
+Progress: 1870000 evaluations in 1.420 seconds (1316765 eval/sec)
+Progress: 1880000 evaluations in 1.428 seconds (1316942 eval/sec)
+Progress: 1890000 evaluations in 1.435 seconds (1317014 eval/sec)
+Progress: 1900000 evaluations in 1.443 seconds (1317144 eval/sec)
+Progress: 1910000 evaluations in 1.450 seconds (1317121 eval/sec)
+Progress: 1920000 evaluations in 1.458 seconds (1317283 eval/sec)
+Progress: 1930000 evaluations in 1.465 seconds (1317354 eval/sec)
+Progress: 1940000 evaluations in 1.473 seconds (1317459 eval/sec)
+Progress: 1950000 evaluations in 1.480 seconds (1317459 eval/sec)
+Progress: 1960000 evaluations in 1.488 seconds (1317294 eval/sec)
+Progress: 1970000 evaluations in 1.495 seconds (1317424 eval/sec)
+Progress: 1980000 evaluations in 1.503 seconds (1317571 eval/sec)
+Progress: 1990000 evaluations in 1.510 seconds (1317709 eval/sec)
+Progress: 2000000 evaluations in 1.518 seconds (1317757 eval/sec)
+Progress: 2010000 evaluations in 1.525 seconds (1317765 eval/sec)
+Progress: 2020000 evaluations in 1.533 seconds (1317841 eval/sec)
+Progress: 2030000 evaluations in 1.540 seconds (1317977 eval/sec)
+Progress: 2040000 evaluations in 1.548 seconds (1318004 eval/sec)
+Progress: 2050000 evaluations in 1.555 seconds (1318145 eval/sec)
+Progress: 2060000 evaluations in 1.563 seconds (1318174 eval/sec)
+Progress: 2070000 evaluations in 1.570 seconds (1318105 eval/sec)
+Progress: 2080000 evaluations in 1.578 seconds (1318243 eval/sec)
+Progress: 2090000 evaluations in 1.585 seconds (1318339 eval/sec)
+Progress: 2100000 evaluations in 1.593 seconds (1318446 eval/sec)
+Progress: 2110000 evaluations in 1.600 seconds (1318445 eval/sec)
+Progress: 2120000 evaluations in 1.608 seconds (1318551 eval/sec)
+Progress: 2130000 evaluations in 1.615 seconds (1318596 eval/sec)
+Progress: 2140000 evaluations in 1.623 seconds (1318697 eval/sec)
+Progress: 2150000 evaluations in 1.630 seconds (1318778 eval/sec)
+Progress: 2160000 evaluations in 1.638 seconds (1318808 eval/sec)
+Progress: 2170000 evaluations in 1.645 seconds (1318877 eval/sec)
+Progress: 2180000 evaluations in 1.653 seconds (1318833 eval/sec)
+Progress: 2190000 evaluations in 1.660 seconds (1318986 eval/sec)
+Progress: 2200000 evaluations in 1.668 seconds (1319120 eval/sec)
+Progress: 2210000 evaluations in 1.675 seconds (1319164 eval/sec)
+Progress: 2220000 evaluations in 1.683 seconds (1319172 eval/sec)
+Progress: 2230000 evaluations in 1.690 seconds (1319324 eval/sec)
+Progress: 2240000 evaluations in 1.698 seconds (1319425 eval/sec)
+Progress: 2250000 evaluations in 1.705 seconds (1319521 eval/sec)
+Progress: 2260000 evaluations in 1.713 seconds (1319525 eval/sec)
+Progress: 2270000 evaluations in 1.720 seconds (1319617 eval/sec)
+Progress: 2280000 evaluations in 1.728 seconds (1319715 eval/sec)
+Progress: 2290000 evaluations in 1.735 seconds (1319772 eval/sec)
+Progress: 2300000 evaluations in 1.743 seconds (1319741 eval/sec)
+Progress: 2310000 evaluations in 1.750 seconds (1319693 eval/sec)
+Progress: 2320000 evaluations in 1.758 seconds (1319784 eval/sec)
+Progress: 2330000 evaluations in 1.765 seconds (1319774 eval/sec)
+Progress: 2340000 evaluations in 1.773 seconds (1319896 eval/sec)
+Progress: 2350000 evaluations in 1.780 seconds (1320009 eval/sec)
+Progress: 2360000 evaluations in 1.788 seconds (1320036 eval/sec)
+Progress: 2370000 evaluations in 1.795 seconds (1320118 eval/sec)
+Progress: 2380000 evaluations in 1.803 seconds (1320240 eval/sec)
+Progress: 2390000 evaluations in 1.810 seconds (1320324 eval/sec)
+Progress: 2400000 evaluations in 1.818 seconds (1320368 eval/sec)
+Progress: 2410000 evaluations in 1.825 seconds (1320231 eval/sec)
+Progress: 2420000 evaluations in 1.833 seconds (1320357 eval/sec)
+Progress: 2430000 evaluations in 1.840 seconds (1320473 eval/sec)
+Progress: 2440000 evaluations in 1.848 seconds (1320509 eval/sec)
+Progress: 2450000 evaluations in 1.855 seconds (1320609 eval/sec)
+Progress: 2460000 evaluations in 1.863 seconds (1320620 eval/sec)
+Progress: 2470000 evaluations in 1.870 seconds (1320701 eval/sec)
+Progress: 2480000 evaluations in 1.878 seconds (1320791 eval/sec)
+Progress: 2490000 evaluations in 1.885 seconds (1320808 eval/sec)
+Progress: 2500000 evaluations in 1.893 seconds (1320924 eval/sec)
+Progress: 2510000 evaluations in 1.900 seconds (1320899 eval/sec)
+Progress: 2520000 evaluations in 1.908 seconds (1320951 eval/sec)
+Progress: 2530000 evaluations in 1.915 seconds (1320880 eval/sec)
+Progress: 2540000 evaluations in 1.923 seconds (1321012 eval/sec)
+Progress: 2550000 evaluations in 1.930 seconds (1321100 eval/sec)
+Progress: 2560000 evaluations in 1.938 seconds (1321106 eval/sec)
+Progress: 2570000 evaluations in 1.945 seconds (1321159 eval/sec)
+Progress: 2580000 evaluations in 1.953 seconds (1321248 eval/sec)
+Progress: 2590000 evaluations in 1.960 seconds (1321332 eval/sec)
+Progress: 2600000 evaluations in 1.968 seconds (1321428 eval/sec)
+Progress: 2610000 evaluations in 1.975 seconds (1321432 eval/sec)
+Progress: 2620000 evaluations in 1.983 seconds (1321489 eval/sec)
+Progress: 2630000 evaluations in 1.990 seconds (1321574 eval/sec)
+Progress: 2640000 evaluations in 1.998 seconds (1321544 eval/sec)
+Progress: 2650000 evaluations in 2.005 seconds (1321677 eval/sec)
+Progress: 2660000 evaluations in 2.013 seconds (1321666 eval/sec)
+Progress: 2670000 evaluations in 2.020 seconds (1321783 eval/sec)
+Progress: 2680000 evaluations in 2.027 seconds (1321871 eval/sec)
+Progress: 2690000 evaluations in 2.035 seconds (1321897 eval/sec)
+Progress: 2700000 evaluations in 2.042 seconds (1321973 eval/sec)
+Progress: 2710000 evaluations in 2.050 seconds (1321944 eval/sec)
+Progress: 2720000 evaluations in 2.057 seconds (1322020 eval/sec)
+Progress: 2730000 evaluations in 2.065 seconds (1322049 eval/sec)
+Progress: 2740000 evaluations in 2.072 seconds (1322140 eval/sec)
+Progress: 2750000 evaluations in 2.080 seconds (1322061 eval/sec)
+Progress: 2760000 evaluations in 2.088 seconds (1322068 eval/sec)
+Progress: 2770000 evaluations in 2.095 seconds (1322067 eval/sec)
+Progress: 2780000 evaluations in 2.103 seconds (1322156 eval/sec)
+Progress: 2790000 evaluations in 2.110 seconds (1322244 eval/sec)
+Progress: 2800000 evaluations in 2.117 seconds (1322333 eval/sec)
+Progress: 2810000 evaluations in 2.125 seconds (1322354 eval/sec)
+Progress: 2820000 evaluations in 2.132 seconds (1322450 eval/sec)
+Progress: 2830000 evaluations in 2.140 seconds (1322505 eval/sec)
+Progress: 2840000 evaluations in 2.147 seconds (1322541 eval/sec)
+Progress: 2850000 evaluations in 2.155 seconds (1322592 eval/sec)
+Progress: 2860000 evaluations in 2.163 seconds (1322540 eval/sec)
+Progress: 2870000 evaluations in 2.170 seconds (1322526 eval/sec)
+Progress: 2880000 evaluations in 2.177 seconds (1322640 eval/sec)
+Progress: 2890000 evaluations in 2.185 seconds (1322700 eval/sec)
+Progress: 2900000 evaluations in 2.192 seconds (1322769 eval/sec)
+Progress: 2910000 evaluations in 2.200 seconds (1322774 eval/sec)
+Progress: 2920000 evaluations in 2.207 seconds (1322863 eval/sec)
+Progress: 2930000 evaluations in 2.215 seconds (1322925 eval/sec)
+Progress: 2940000 evaluations in 2.222 seconds (1323015 eval/sec)
+Progress: 2950000 evaluations in 2.230 seconds (1323075 eval/sec)
+Progress: 2960000 evaluations in 2.237 seconds (1323052 eval/sec)
+Progress: 2970000 evaluations in 2.245 seconds (1323109 eval/sec)
+Progress: 2980000 evaluations in 2.252 seconds (1323148 eval/sec)
+Progress: 2990000 evaluations in 2.260 seconds (1323107 eval/sec)
+Progress: 3000000 evaluations in 2.267 seconds (1323215 eval/sec)
+Progress: 3010000 evaluations in 2.275 seconds (1323250 eval/sec)
+Progress: 3020000 evaluations in 2.282 seconds (1323284 eval/sec)
+Progress: 3030000 evaluations in 2.290 seconds (1323369 eval/sec)
+Progress: 3040000 evaluations in 2.297 seconds (1323448 eval/sec)
+Progress: 3050000 evaluations in 2.304 seconds (1323543 eval/sec)
+Progress: 3060000 evaluations in 2.312 seconds (1323507 eval/sec)
+Progress: 3070000 evaluations in 2.319 seconds (1323597 eval/sec)
+Progress: 3080000 evaluations in 2.327 seconds (1323672 eval/sec)
+Progress: 3090000 evaluations in 2.334 seconds (1323741 eval/sec)
+Progress: 3100000 evaluations in 2.342 seconds (1323816 eval/sec)
+Progress: 3110000 evaluations in 2.350 seconds (1323641 eval/sec)
+Progress: 3120000 evaluations in 2.357 seconds (1323718 eval/sec)
+Progress: 3130000 evaluations in 2.364 seconds (1323761 eval/sec)
+Progress: 3140000 evaluations in 2.372 seconds (1323857 eval/sec)
+Progress: 3150000 evaluations in 2.379 seconds (1323878 eval/sec)
+Progress: 3160000 evaluations in 2.387 seconds (1323888 eval/sec)
+Progress: 3170000 evaluations in 2.394 seconds (1323939 eval/sec)
+Progress: 3180000 evaluations in 2.402 seconds (1323963 eval/sec)
+Progress: 3190000 evaluations in 2.409 seconds (1324023 eval/sec)
+Progress: 3200000 evaluations in 2.417 seconds (1324054 eval/sec)
+Progress: 3210000 evaluations in 2.424 seconds (1324080 eval/sec)
+Progress: 3220000 evaluations in 2.432 seconds (1324015 eval/sec)
+Progress: 3230000 evaluations in 2.439 seconds (1324106 eval/sec)
+Progress: 3240000 evaluations in 2.447 seconds (1324125 eval/sec)
+Progress: 3250000 evaluations in 2.454 seconds (1324216 eval/sec)
+Progress: 3260000 evaluations in 2.462 seconds (1324199 eval/sec)
+Progress: 3270000 evaluations in 2.469 seconds (1324250 eval/sec)
+Progress: 3280000 evaluations in 2.477 seconds (1324314 eval/sec)
+Progress: 3290000 evaluations in 2.484 seconds (1324345 eval/sec)
+Progress: 3300000 evaluations in 2.492 seconds (1324410 eval/sec)
+Progress: 3310000 evaluations in 2.499 seconds (1324397 eval/sec)
+Progress: 3320000 evaluations in 2.507 seconds (1324440 eval/sec)
+Progress: 3330000 evaluations in 2.514 seconds (1324490 eval/sec)
+Progress: 3340000 evaluations in 2.522 seconds (1324461 eval/sec)
+Progress: 3350000 evaluations in 2.529 seconds (1324534 eval/sec)
+Progress: 3360000 evaluations in 2.537 seconds (1324522 eval/sec)
+Progress: 3370000 evaluations in 2.544 seconds (1324582 eval/sec)
+Progress: 3380000 evaluations in 2.552 seconds (1324591 eval/sec)
+Progress: 3390000 evaluations in 2.559 seconds (1324653 eval/sec)
+Progress: 3400000 evaluations in 2.567 seconds (1324710 eval/sec)
+Progress: 3410000 evaluations in 2.574 seconds (1324726 eval/sec)
+Progress: 3420000 evaluations in 2.582 seconds (1324717 eval/sec)
+Progress: 3430000 evaluations in 2.589 seconds (1324760 eval/sec)
+Progress: 3440000 evaluations in 2.597 seconds (1324781 eval/sec)
+Progress: 3450000 evaluations in 2.604 seconds (1324815 eval/sec)
+Progress: 3460000 evaluations in 2.612 seconds (1324735 eval/sec)
+Progress: 3470000 evaluations in 2.619 seconds (1324796 eval/sec)
+Progress: 3480000 evaluations in 2.627 seconds (1324845 eval/sec)
+Progress: 3490000 evaluations in 2.634 seconds (1324889 eval/sec)
+Progress: 3500000 evaluations in 2.642 seconds (1324911 eval/sec)
+Progress: 3510000 evaluations in 2.649 seconds (1324862 eval/sec)
+Progress: 3520000 evaluations in 2.657 seconds (1324922 eval/sec)
+Progress: 3530000 evaluations in 2.664 seconds (1324942 eval/sec)
+Progress: 3540000 evaluations in 2.672 seconds (1324989 eval/sec)
+Progress: 3550000 evaluations in 2.679 seconds (1325018 eval/sec)
+Progress: 3560000 evaluations in 2.687 seconds (1324994 eval/sec)
+Progress: 3570000 evaluations in 2.694 seconds (1325049 eval/sec)
+Progress: 3580000 evaluations in 2.702 seconds (1325002 eval/sec)
+Progress: 3590000 evaluations in 2.709 seconds (1325089 eval/sec)
+Progress: 3600000 evaluations in 2.717 seconds (1325177 eval/sec)
+Progress: 3610000 evaluations in 2.724 seconds (1325197 eval/sec)
+Progress: 3620000 evaluations in 2.732 seconds (1325267 eval/sec)
+Progress: 3630000 evaluations in 2.739 seconds (1325329 eval/sec)
+Progress: 3640000 evaluations in 2.746 seconds (1325365 eval/sec)
+Progress: 3650000 evaluations in 2.754 seconds (1325292 eval/sec)
+Progress: 3660000 evaluations in 2.762 seconds (1325275 eval/sec)
+Progress: 3670000 evaluations in 2.769 seconds (1325327 eval/sec)
+Progress: 3680000 evaluations in 2.777 seconds (1325334 eval/sec)
+Progress: 3690000 evaluations in 2.784 seconds (1325291 eval/sec)
+Progress: 3700000 evaluations in 2.792 seconds (1325363 eval/sec)
+Progress: 3710000 evaluations in 2.799 seconds (1325380 eval/sec)
+Progress: 3720000 evaluations in 2.807 seconds (1325448 eval/sec)
+Progress: 3730000 evaluations in 2.814 seconds (1325494 eval/sec)
+Progress: 3740000 evaluations in 2.822 seconds (1325451 eval/sec)
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:45:20 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+./bench: line 357: 49157 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.630s
+user	4m58.971s
+sys	0m1.135s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 13:52:30 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing browse under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/browse.scm /tmp/r7rs-benchmarks/AnyScheme/browse.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/browse.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: do
+
+real	0m0.020s
+user	0m0.011s
+sys	0m0.004s
++!CSVLINE!+anyscheme,browse,CRASHED
+
+Testing deriv under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/deriv.scm /tmp/r7rs-benchmarks/AnyScheme/deriv.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/deriv.scm
+=============================================================
+
+=============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.011s
+user	0m0.007s
+sys	0m0.003s
++!CSVLINE!+anyscheme,deriv,CRASHED
+
+Testing destruc under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/destruc.scm /tmp/r7rs-benchmarks/AnyScheme/destruc.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/destruc.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,destruc,CRASHED
+
+Testing diviter under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/diviter.scm /tmp/r7rs-benchmarks/AnyScheme/diviter.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/diviter.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: do
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
++!CSVLINE!+anyscheme,diviter,CRASHED
+
+Testing divrec under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/divrec.scm /tmp/r7rs-benchmarks/AnyScheme/divrec.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/divrec.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: do
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,divrec,CRASHED
+
+Testing puzzle under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/puzzle.scm /tmp/r7rs-benchmarks/AnyScheme/puzzle.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/puzzle.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: for-each
+
+real	0m0.014s
+user	0m0.010s
+sys	0m0.003s
++!CSVLINE!+anyscheme,puzzle,CRASHED
+
+Testing triangl under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/triangl.scm /tmp/r7rs-benchmarks/AnyScheme/triangl.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/triangl.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: list->vector
+
+real	0m0.012s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,triangl,CRASHED
+
+Testing tak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tak.scm /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tak.scm
+===========================================================
+Running tak:40:20:11:1
+./bench: line 357: 56060 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.316s
+user	4m59.234s
+sys	0m0.855s
++!CSVLINE!+anyscheme,tak,CRASHED
+
+Testing takl under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/takl.scm /tmp/r7rs-benchmarks/AnyScheme/takl.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/takl.scm
+============================================================
+
+============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.005s
++!CSVLINE!+anyscheme,takl,CRASHED
+
+Testing ntakl under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/ntakl.scm /tmp/r7rs-benchmarks/AnyScheme/ntakl.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/ntakl.scm
+=============================================================
+
+=============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.003s
++!CSVLINE!+anyscheme,ntakl,CRASHED
+
+Testing cpstak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/cpstak.scm /tmp/r7rs-benchmarks/AnyScheme/cpstak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/cpstak.scm
+==============================================================
+Running cpstak:40:20:11:1
+./bench: line 357: 56104 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.195s
+user	4m59.061s
+sys	0m1.005s
++!CSVLINE!+anyscheme,cpstak,CRASHED
+
+Testing ctak under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/ctak.scm /tmp/r7rs-benchmarks/AnyScheme/ctak.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/ctak.scm
+============================================================
+Running ctak:32:16:8:1
+./bench: line 357: 58969 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.156s
+user	4m59.050s
+sys	0m1.032s
++!CSVLINE!+anyscheme,ctak,CRASHED
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+Running fib:40:5
+./bench: line 357: 59123 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.207s
+user	4m58.836s
+sys	0m1.284s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+Testing fibc under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fibc.scm /tmp/r7rs-benchmarks/AnyScheme/fibc.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fibc.scm
+============================================================
+Running fibc:30:10
+
+============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: zero?
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.003s
++!CSVLINE!+anyscheme,fibc,CRASHED
+
+Testing fibfp under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fibfp.scm /tmp/r7rs-benchmarks/AnyScheme/fibfp.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fibfp.scm
+=============================================================
+Running fibfp:35.0:10
+./bench: line 357: 65905 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.421s
+user	4m58.792s
+sys	0m1.348s
++!CSVLINE!+anyscheme,fibfp,CRASHED
+
+Testing sum under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/sum.scm /tmp/r7rs-benchmarks/AnyScheme/sum.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/sum.scm
+===========================================================
+Running sum:10000:200000
+./bench: line 357: 68135 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.280s
+user	4m59.026s
+sys	0m1.217s
++!CSVLINE!+anyscheme,sum,CRASHED
+
+Testing sumfp under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/sumfp.scm /tmp/r7rs-benchmarks/AnyScheme/sumfp.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/sumfp.scm
+=============================================================
+Running sumfp:1:500
+ERROR: returned incorrect result: 1.0
++!CSVLINE!+anyscheme,sumfp:1:500,INCORRECT
+
+=============================================================
+Execution completed successfully.
+Final result:	0
+
+real	0m0.064s
+user	0m0.054s
+sys	0m0.005s
+
+Testing fft under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fft.scm /tmp/r7rs-benchmarks/AnyScheme/fft.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fft.scm
+===========================================================
+Running fft:65536:100
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: when
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.003s
++!CSVLINE!+anyscheme,fft,CRASHED
+
+Testing mbrot under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/mbrot.scm /tmp/r7rs-benchmarks/AnyScheme/mbrot.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/mbrot.scm
+=============================================================
+Running mbrot:75:1000
+
+=============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: when
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.003s
++!CSVLINE!+anyscheme,mbrot,CRASHED
+
+Testing mbrotZ under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/mbrotZ.scm /tmp/r7rs-benchmarks/AnyScheme/mbrotZ.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/mbrotZ.scm
+==============================================================
+Running mbrotZ:75:1000
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: when
+
+real	0m0.014s
+user	0m0.009s
+sys	0m0.003s
++!CSVLINE!+anyscheme,mbrotZ,CRASHED
+
+Testing nucleic under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/nucleic.scm /tmp/r7rs-benchmarks/AnyScheme/nucleic.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/nucleic.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/lexer.lua:157: Invalid literal starting with # at position 16860
+
+real	0m0.012s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,nucleic,CRASHED
+
+Testing pi under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/pi.scm /tmp/r7rs-benchmarks/AnyScheme/pi.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/pi.scm
+==========================================================
+
+==========================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.017s
+user	0m0.009s
+sys	0m0.005s
++!CSVLINE!+anyscheme,pi,CRASHED
+
+Testing pnpoly under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/pnpoly.scm /tmp/r7rs-benchmarks/AnyScheme/pnpoly.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/pnpoly.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/parser.lua:57: Expected ')' after dotted pair at position 1099
+
+real	0m0.008s
+user	0m0.005s
+sys	0m0.002s
++!CSVLINE!+anyscheme,pnpoly,CRASHED
+
+Testing ray under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/ray.scm /tmp/r7rs-benchmarks/AnyScheme/ray.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/ray.scm
+===========================================================
+Running ray:50
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: do
+
+real	0m0.018s
+user	0m0.012s
+sys	0m0.004s
++!CSVLINE!+anyscheme,ray,CRASHED
+
+Testing simplex under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/simplex.scm /tmp/r7rs-benchmarks/AnyScheme/simplex.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/simplex.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/lexer.lua:157: Invalid literal starting with # at position 2
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.004s
++!CSVLINE!+anyscheme,simplex,CRASHED
+
+Testing ack under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/ack.scm /tmp/r7rs-benchmarks/AnyScheme/ack.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/ack.scm
+===========================================================
+Running ack:3:12:2
+./bench: line 357: 70615 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.687s
+user	4m58.939s
+sys	0m1.386s
++!CSVLINE!+anyscheme,ack,CRASHED
+
+Testing array1 under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/array1.scm /tmp/r7rs-benchmarks/AnyScheme/array1.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/array1.scm
+==============================================================
+Running array1:1000000:500
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: do
+
+real	0m0.032s
+user	0m0.024s
+sys	0m0.004s
++!CSVLINE!+anyscheme,array1,CRASHED
+
+Testing string under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/string.scm /tmp/r7rs-benchmarks/AnyScheme/string.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/string.scm
+==============================================================
+Running string:500000:100
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: do
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
++!CSVLINE!+anyscheme,string,CRASHED
+
+Testing sum1 under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/sum1.scm /tmp/r7rs-benchmarks/AnyScheme/sum1.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/sum1.scm
+============================================================
+Running sum1:25
+
+============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: call-with-input-file
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,sum1,CRASHED
+
+Testing cat under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/cat.scm /tmp/r7rs-benchmarks/AnyScheme/cat.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/cat.scm
+===========================================================
+Running cat:50
+
+===========================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: when
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,cat,CRASHED
+
+Testing tail under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/tail.scm /tmp/r7rs-benchmarks/AnyScheme/tail.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/tail.scm
+============================================================
+Running tail:50
+
+============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: call-with-input-file
+
+real	0m0.016s
+user	0m0.008s
+sys	0m0.005s
++!CSVLINE!+anyscheme,tail,CRASHED
+
+Testing wc under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/wc.scm /tmp/r7rs-benchmarks/AnyScheme/wc.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/wc.scm
+==========================================================
+Running wc:inputs/bib:50
+
+==========================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: call-with-input-file
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.003s
++!CSVLINE!+anyscheme,wc,CRASHED
+
+Testing read1 under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/read1.scm /tmp/r7rs-benchmarks/AnyScheme/read1.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/read1.scm
+=============================================================
+
+=============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.003s
++!CSVLINE!+anyscheme,read1,CRASHED
+
+Testing compiler under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/compiler.scm /tmp/r7rs-benchmarks/AnyScheme/compiler.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/compiler.scm
+================================================================
+
+================================================================
+Execution failed with error:
+./src/lexer.lua:157: Invalid literal starting with # at position 339504
+
+real	0m0.104s
+user	0m0.098s
+sys	0m0.004s
++!CSVLINE!+anyscheme,compiler,CRASHED
+
+Testing conform under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/conform.scm /tmp/r7rs-benchmarks/AnyScheme/conform.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/conform.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:92: define: wrong number of arguments
+
+real	0m0.016s
+user	0m0.012s
+sys	0m0.002s
++!CSVLINE!+anyscheme,conform,CRASHED
+
+Testing dynamic under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/dynamic.scm /tmp/r7rs-benchmarks/AnyScheme/dynamic.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/dynamic.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/lexer.lua:171: Unexpected character ':' at position 1469
+
+real	0m0.011s
+user	0m0.005s
+sys	0m0.003s
++!CSVLINE!+anyscheme,dynamic,CRASHED
+
+Testing earley under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/earley.scm /tmp/r7rs-benchmarks/AnyScheme/earley.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/earley.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:92: define: wrong number of arguments
+
+real	0m0.025s
+user	0m0.020s
+sys	0m0.003s
++!CSVLINE!+anyscheme,earley,CRASHED
+
+Testing graphs under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/graphs.scm /tmp/r7rs-benchmarks/AnyScheme/graphs.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/graphs.scm
+==============================================================
+Running graphs:7:3
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: zero?
+
+real	0m0.021s
+user	0m0.015s
+sys	0m0.004s
++!CSVLINE!+anyscheme,graphs,CRASHED
+
+Testing lattice under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/lattice.scm /tmp/r7rs-benchmarks/AnyScheme/lattice.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/lattice.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: letrec
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.002s
++!CSVLINE!+anyscheme,lattice,CRASHED
+
+Testing matrix under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/matrix.scm /tmp/r7rs-benchmarks/AnyScheme/matrix.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/matrix.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.023s
+user	0m0.017s
+sys	0m0.004s
++!CSVLINE!+anyscheme,matrix,CRASHED
+
+Testing maze under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/maze.scm /tmp/r7rs-benchmarks/AnyScheme/maze.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/maze.scm
+============================================================
+
+============================================================
+Execution failed with error:
+./src/lexer.lua:171: Unexpected character ':' at position 7037
+
+real	0m0.006s
+user	0m0.004s
+sys	0m0.001s
++!CSVLINE!+anyscheme,maze,CRASHED
+
+Testing mazefun under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/mazefun.scm /tmp/r7rs-benchmarks/AnyScheme/mazefun.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/mazefun.scm
+===============================================================
+
+===============================================================
+Execution failed with error:
+./src/parser.lua:35: Unexpected end of input, expected ')'
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.003s
++!CSVLINE!+anyscheme,mazefun,CRASHED
+
+Testing nqueens under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/nqueens.scm /tmp/r7rs-benchmarks/AnyScheme/nqueens.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/nqueens.scm
+===============================================================
+Running nqueens:13:10
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: when
+
+real	0m0.021s
+user	0m0.016s
+sys	0m0.003s
++!CSVLINE!+anyscheme,nqueens,CRASHED
+
+Testing paraffins under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/paraffins.scm /tmp/r7rs-benchmarks/AnyScheme/paraffins.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/paraffins.scm
+=================================================================
+Running paraffins:23:10
+
+=================================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: odd?
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.004s
++!CSVLINE!+anyscheme,paraffins,CRASHED
+
+Testing parsing under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/parsing.scm /tmp/r7rs-benchmarks/AnyScheme/parsing.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/parsing.scm
+===============================================================
+Running parsing:2500
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: call-with-input-file
+
+real	0m0.023s
+user	0m0.014s
+sys	0m0.005s
++!CSVLINE!+anyscheme,parsing,CRASHED
+
+Testing peval under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/peval.scm /tmp/r7rs-benchmarks/AnyScheme/peval.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/peval.scm
+=============================================================
+
+=============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: list
+
+real	0m0.026s
+user	0m0.019s
+sys	0m0.004s
++!CSVLINE!+anyscheme,peval,CRASHED
+
+Testing primes under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/primes.scm /tmp/r7rs-benchmarks/AnyScheme/primes.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/primes.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/parser.lua:35: Unexpected end of input, expected ')'
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.004s
++!CSVLINE!+anyscheme,primes,CRASHED
+
+Testing quicksort under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/quicksort.scm /tmp/r7rs-benchmarks/AnyScheme/quicksort.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/quicksort.scm
+=================================================================
+
+=================================================================
+Execution failed with error:
+./src/cps-runtime.lua:688: let: each binding must be a list of two elements
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.003s
++!CSVLINE!+anyscheme,quicksort,CRASHED
+
+Testing scheme under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/scheme.scm /tmp/r7rs-benchmarks/AnyScheme/scheme.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/scheme.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: assq
+
+real	0m0.033s
+user	0m0.026s
+sys	0m0.005s
++!CSVLINE!+anyscheme,scheme,CRASHED
+
+Testing slatex under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/slatex.scm /tmp/r7rs-benchmarks/AnyScheme/slatex.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/slatex.scm
+==============================================================
+
+==============================================================
+Execution failed with error:
+./src/lexer.lua:171: Unexpected character ':' at position 72701
+
+real	0m0.044s
+user	0m0.038s
+sys	0m0.004s
++!CSVLINE!+anyscheme,slatex,CRASHED
+
+Testing chudnovsky under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/chudnovsky.scm /tmp/r7rs-benchmarks/AnyScheme/chudnovsky.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/chudnovsky.scm
+==================================================================
+
+==================================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.004s
++!CSVLINE!+anyscheme,chudnovsky,CRASHED
+
+Testing nboyer under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/nboyer.scm /tmp/r7rs-benchmarks/AnyScheme/nboyer.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/nboyer.scm
+==============================================================
+Running nboyer:5:1
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: assq
+
+real	0m0.029s
+user	0m0.022s
+sys	0m0.004s
++!CSVLINE!+anyscheme,nboyer,CRASHED
+
+Testing sboyer under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/sboyer.scm /tmp/r7rs-benchmarks/AnyScheme/sboyer.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/sboyer.scm
+==============================================================
+Running sboyer:5:1
+
+==============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: assq
+
+real	0m0.031s
+user	0m0.022s
+sys	0m0.006s
++!CSVLINE!+anyscheme,sboyer,CRASHED
+
+Testing gcbench under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/gcbench.scm /tmp/r7rs-benchmarks/AnyScheme/gcbench.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/gcbench.scm
+===============================================================
+The garbage collector should touch about 128.0 megabytes of heap storage.
+The use of more or less memory will skew the results.
+Running gcbench:20:1
+
+===============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: define-record-type
+
+real	0m0.018s
+user	0m0.011s
+sys	0m0.004s
++!CSVLINE!+anyscheme,gcbench,CRASHED
+
+Testing mperm under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/mperm.scm /tmp/r7rs-benchmarks/AnyScheme/mperm.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/mperm.scm
+=============================================================
+
+=============================================================
+Execution failed with error:
+./src/parser.lua:26: Unexpected end of input
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.004s
++!CSVLINE!+anyscheme,mperm,CRASHED
+
+Testing equal under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/equal.scm /tmp/r7rs-benchmarks/AnyScheme/equal.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/equal.scm
+=============================================================
+Running equal:100:100:8:1000:2000:5000
+
+=============================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: zero?
+
+real	0m0.018s
+user	0m0.012s
+sys	0m0.004s
++!CSVLINE!+anyscheme,equal,CRASHED
+
+Testing bv2string under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/bv2string.scm /tmp/r7rs-benchmarks/AnyScheme/bv2string.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/bv2string.scm
+=================================================================
+Running bv2string:1000:1000:100
+
+=================================================================
+Execution failed with error:
+./src/cps-runtime.lua:37: Unbound variable: letrec
+
+real	0m0.015s
+user	0m0.010s
+sys	0m0.004s
++!CSVLINE!+anyscheme,bv2string,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 14:49:59 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./src/parser.lua:174: No expressions found
+
+real	0m0.010s
+user	0m0.003s
+sys	0m0.002s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 14:55:25 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+lua: run-scheme.lua:6: module 'src.anyscheme' not found:
+	no field package.preload['src.anyscheme']
+	no file '/opt/homebrew/share/lua/5.4/src/anyscheme.lua'
+	no file '/opt/homebrew/share/lua/5.4/src/anyscheme/init.lua'
+	no file '/opt/homebrew/lib/lua/5.4/src/anyscheme.lua'
+	no file '/opt/homebrew/lib/lua/5.4/src/anyscheme/init.lua'
+	no file './src/anyscheme.lua'
+	no file './src/anyscheme/init.lua'
+	no file '/opt/homebrew/lib/lua/5.4/src/anyscheme.so'
+	no file '/opt/homebrew/lib/lua/5.4/loadall.so'
+	no file './src/anyscheme.so'
+	no file '/opt/homebrew/lib/lua/5.4/src.so'
+	no file '/opt/homebrew/lib/lua/5.4/loadall.so'
+	no file './src.so'
+stack traceback:
+	[C]: in function 'require'
+	run-scheme.lua:6: in main chunk
+	[C]: in ?
+
+real	0m0.014s
+user	0m0.003s
+sys	0m0.004s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 14:59:48 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+lua: ./lua/anyscheme.lua:1: module 'src.lexer' not found:
+	no field package.preload['src.lexer']
+	no file '/opt/homebrew/share/lua/5.4/src/lexer.lua'
+	no file '/opt/homebrew/share/lua/5.4/src/lexer/init.lua'
+	no file '/opt/homebrew/lib/lua/5.4/src/lexer.lua'
+	no file '/opt/homebrew/lib/lua/5.4/src/lexer/init.lua'
+	no file './src/lexer.lua'
+	no file './src/lexer/init.lua'
+	no file '/opt/homebrew/lib/lua/5.4/src/lexer.so'
+	no file '/opt/homebrew/lib/lua/5.4/loadall.so'
+	no file './src/lexer.so'
+	no file '/opt/homebrew/lib/lua/5.4/src.so'
+	no file '/opt/homebrew/lib/lua/5.4/loadall.so'
+	no file './src.so'
+stack traceback:
+	[C]: in function 'require'
+	./lua/anyscheme.lua:1: in main chunk
+	[C]: in function 'require'
+	run-scheme.lua:6: in main chunk
+	[C]: in ?
+
+real	0m0.011s
+user	0m0.003s
+sys	0m0.004s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:03:37 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./lua/parser.lua:174: No expressions found
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.005s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:04:39 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./lua/parser.lua:174: No expressions found
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:07:07 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./lua/parser.lua:186: No expressions found. Found 1 tokens: EOF(nil) 
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.003s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:07:37 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+DEBUG: Tokenizing source of length 2971
+DEBUG: First 100 chars: ;; Minimal AnyScheme prelude - core functions should be built-in
+;;; FIB -- A classic benchmark, com
+DEBUG: Tokenizing source of length 93
+DEBUG: First 100 chars: ;; (scheme read) library
+;; R7RS read procedures
+;; Functions are built into the core runtime
+
+===========================================================
+Execution failed with error:
+./lua/parser.lua:186: No expressions found. Found 1 tokens: EOF(nil) 
+
+real	0m0.008s
+user	0m0.005s
+sys	0m0.002s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:08:54 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+
+===========================================================
+Execution failed with error:
+./lua/cps-runtime.lua:37: Unbound variable: unspecified
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
++!CSVLINE!+anyscheme,fib,CRASHED
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:09:15 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+Running fib:40:5
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:13:01 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing ack under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/ack.scm /tmp/r7rs-benchmarks/AnyScheme/ack.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/ack.scm
+===========================================================
+Running ack:3:12:2
+
+****************************
+Benchmarking AnyScheme on Sat May 31 15:17:19 PDT 2025 under Darwin Deep-Thought.local 24.5.0 Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8112 arm64
+
+Testing fib under AnyScheme
+Including prelude /Users/seanlynch/src/anyscheme/benchmarks/src/AnyScheme-prelude.scm
+Compiling...
+anyscheme_comp /tmp/r7rs-benchmarks/AnyScheme/fib.scm /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+Running...
+Running Scheme file: /tmp/r7rs-benchmarks/AnyScheme/fib.scm
+===========================================================
+Running fib:40:5
+./bench: line 357: 97829 Cputime limit exceeded: 24  lua run-scheme.lua "$1" < "$2"
+
+real	5m0.520s
+user	4m59.023s
+sys	0m1.298s
++!CSVLINE!+anyscheme,ack,CRASHED
